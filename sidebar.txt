@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[wnp:home|Door43 (wnp)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-wnp|d43-wnp repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-wnp/archive/master.zip|d43-wnp.zip]]
+
+**Recent Changes**
+{{changes>ns = wnp}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/wnp|Ethnologue data]]
+
